@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27004.2009
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Workshop.Messaging", "Workshop.Messaging\Workshop.Messaging.csproj", "{7F4124E2-6FA3-4990-9D31-D3A02B88CF94}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Workshop.Shared.Data", "..\Workshop.Serverless\Workshop.Data\Workshop.Shared.Data.csproj", "{A483CE67-9A5B-4332-B3AF-400A125BA7D9}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Workshop.Shared", "Workshop.Shared", "{273DD976-BB29-41B3-8AA4-F0F03C48A48E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7F4124E2-6FA3-4990-9D31-D3A02B88CF94}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7F4124E2-6FA3-4990-9D31-D3A02B88CF94}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7F4124E2-6FA3-4990-9D31-D3A02B88CF94}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7F4124E2-6FA3-4990-9D31-D3A02B88CF94}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A483CE67-9A5B-4332-B3AF-400A125BA7D9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A483CE67-9A5B-4332-B3AF-400A125BA7D9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A483CE67-9A5B-4332-B3AF-400A125BA7D9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A483CE67-9A5B-4332-B3AF-400A125BA7D9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{A483CE67-9A5B-4332-B3AF-400A125BA7D9} = {273DD976-BB29-41B3-8AA4-F0F03C48A48E}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2703CD5A-D72E-4BDC-9471-82B7B139B020}
+	EndGlobalSection
+EndGlobal

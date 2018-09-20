@@ -1,0 +1,12 @@
+C:\serverless - messaging\Workshop.Serverless\Workshop.Serverless.Utilities\bin\Debug\Workshop.Serverless.Utilities.dll
+C:\serverless - messaging\Workshop.Serverless\Workshop.Serverless.Utilities\bin\Debug\Workshop.Serverless.Utilities.pdb
+C:\serverless - messaging\Workshop.Serverless\Workshop.Serverless.Utilities\bin\Debug\Microsoft.ApplicationInsights.dll
+C:\serverless - messaging\Workshop.Serverless\Workshop.Serverless.Utilities\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\serverless - messaging\Workshop.Serverless\Workshop.Serverless.Utilities\bin\Debug\Workshop.Serverless.Configurations.dll
+C:\serverless - messaging\Workshop.Serverless\Workshop.Serverless.Utilities\bin\Debug\Workshop.Serverless.Configurations.pdb
+C:\serverless - messaging\Workshop.Serverless\Workshop.Serverless.Utilities\bin\Debug\Microsoft.ApplicationInsights.xml
+C:\serverless - messaging\Workshop.Serverless\Workshop.Serverless.Utilities\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\serverless - messaging\Workshop.Serverless\Workshop.Serverless.Utilities\obj\Debug\Workshop.Serverless.Utilities.csprojResolveAssemblyReference.cache
+C:\serverless - messaging\Workshop.Serverless\Workshop.Serverless.Utilities\obj\Debug\Workshop.Serverless.Utilities.csproj.CoreCompileInputs.cache
+C:\serverless - messaging\Workshop.Serverless\Workshop.Serverless.Utilities\obj\Debug\Workshop.Serverless.Utilities.dll
+C:\serverless - messaging\Workshop.Serverless\Workshop.Serverless.Utilities\obj\Debug\Workshop.Serverless.Utilities.pdb

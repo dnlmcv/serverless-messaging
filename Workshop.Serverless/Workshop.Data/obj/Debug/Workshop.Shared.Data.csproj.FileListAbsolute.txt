@@ -1,0 +1,10 @@
+C:\serverless - messaging\Workshop.Serverless\Workshop.Data\bin\Debug\Workshop.Shared.Data.dll
+C:\serverless - messaging\Workshop.Serverless\Workshop.Data\bin\Debug\Workshop.Shared.Data.pdb
+C:\serverless - messaging\Workshop.Serverless\Workshop.Data\bin\Debug\Microsoft.ApplicationInsights.dll
+C:\serverless - messaging\Workshop.Serverless\Workshop.Data\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\serverless - messaging\Workshop.Serverless\Workshop.Data\bin\Debug\Microsoft.ApplicationInsights.xml
+C:\serverless - messaging\Workshop.Serverless\Workshop.Data\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\serverless - messaging\Workshop.Serverless\Workshop.Data\obj\Debug\Workshop.Shared.Data.csprojResolveAssemblyReference.cache
+C:\serverless - messaging\Workshop.Serverless\Workshop.Data\obj\Debug\Workshop.Shared.Data.csproj.CoreCompileInputs.cache
+C:\serverless - messaging\Workshop.Serverless\Workshop.Data\obj\Debug\Workshop.Shared.Data.dll
+C:\serverless - messaging\Workshop.Serverless\Workshop.Data\obj\Debug\Workshop.Shared.Data.pdb
